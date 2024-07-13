@@ -15,9 +15,9 @@ This project not only enhanced my skills in Flutter development but also provide
 #### Application Screens :
 
 <div>
-  <img width="207" alt="no_weather" src="https://github.com/user-attachments/assets/daf9c7e4-3970-4dec-9945-0518453b51f0">
-  <img width="206" alt="searsh_weather" src="https://github.com/user-attachments/assets/66e4ab30-0dee-4ae0-8f89-2838632cc2f3">
-  <img width="203" alt="weather_cairo" src="https://github.com/user-attachments/assets/e644aa85-cedc-4616-ad74-dc58120cb3d2">
-  <img width="210" alt="weather_london" src="https://github.com/user-attachments/assets/2dea46bf-59a2-4748-b054-471b4e1e1b6b">
+  <img width="150" alt="no_weather" src="https://github.com/user-attachments/assets/daf9c7e4-3970-4dec-9945-0518453b51f0">
+  <img width="150" alt="searsh_weather" src="https://github.com/user-attachments/assets/66e4ab30-0dee-4ae0-8f89-2838632cc2f3">
+  <img width="150" alt="weather_cairo" src="https://github.com/user-attachments/assets/e644aa85-cedc-4616-ad74-dc58120cb3d2">
+  <img width="150" alt="weather_london" src="https://github.com/user-attachments/assets/2dea46bf-59a2-4748-b054-471b4e1e1b6b">
 
 </div>
